@@ -1,2 +1,3 @@
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/qwerty250/qwerty250/blob/main/github-metrics.svg)
+![Metrics](https://github.com/coding-famer/coding-famer/blob/main/github-metrics.svg)
+
