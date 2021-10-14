@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: coding-famer
