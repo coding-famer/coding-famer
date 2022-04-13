@@ -556,17 +556,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 65.07508122822938%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">81%</span>
+                                <div class="bar" style="width: 65.25868424476343%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 0.1358194537950414%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13414863321624237%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 0.012879430963322893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.012720991080850572%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2437,7 +2437,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2022, 03:14:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 14 Apr 2022, 04:17:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
