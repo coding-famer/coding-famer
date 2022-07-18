@@ -1819,22 +1819,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Backdoored-Models</span>
-                                <div class="bar" style="width: 57.768%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <div class="bar" style="width: 58.272000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">73%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">tdc-starter-kit</span>
-                                <div class="bar" style="width: 7.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.392000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">LeetCode-Learning</span>
-                                <div class="bar" style="width: 3.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.9520000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">vilbert-multi-task</span>
-                                <div class="bar" style="width: 2.7279999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Terminal</span>
+                                <div class="bar" style="width: 2.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -2494,7 +2494,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 00:24:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 19 Jul 2022, 01:24:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
