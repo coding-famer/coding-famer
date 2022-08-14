@@ -1632,22 +1632,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">tdc2022</span>
-                                <div class="bar" style="width: 21.648%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 21.568%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CS106L</span>
-                                <div class="bar" style="width: 16.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 16.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cs106L-assignment1</span>
-                                <div class="bar" style="width: 16.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 16.240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CS106B</span>
-                                <div class="bar" style="width: 11.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Terminal</span>
+                                <div class="bar" style="width: 11.655999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                         </div>
@@ -2307,7 +2307,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2022, 23:16:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 15 Aug 2022, 00:20:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
