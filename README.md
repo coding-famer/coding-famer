@@ -27,7 +27,7 @@
 CS Student
 </p>
 <details><summary>More GitHub Related Info</summary>
-![Metrics](https://github.com/coding-famer/coding-famer/blob/main/github-metrics.svg)
+<img src="https://github.com/coding-famer/coding-famer/blob/main/github-metrics.svg" alt="Metrics"/>
 </details>
 <strong>Weekly Coding Activity</strong>
 <img src="https://github.com/coding-famer/coding-famer/blob/main/images/stat.svg" alt="WakaTime Activity"/>
