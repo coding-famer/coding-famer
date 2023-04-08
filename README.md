@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=coding-famer&style=flat-square" />
 </a>
   <a href="https://coding-famer.github.io">
-    <img src="https://img.shields.io/badge/Website-Chenhe Gu-blue?style=flat-square" alt="Website">
+    <img src="https://img.shields.io/badge/Website-blue?style=flat-square" alt="Website">
   </a>
  <a href="mailto:chenhegu0109@gmail.com">
  <img src="https://img.shields.io/badge/-chenhegu0109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenhegu0109@gmail.com">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
     <a href="https://www.linkedin.com/in/chenhe-gu-a33640211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Chenhe Gu-0079FF.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     <a href="https://discordapp.com/users/855079568993681428" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord">
