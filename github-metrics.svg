@@ -1850,22 +1850,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">advvlm</span>
-                                <div class="bar" style="width: 50.68000000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 48.224000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cleanlab</span>
-                                <div class="bar" style="width: 16.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Terminal</span>
-                                <div class="bar" style="width: 4.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">PeterDB</span>
+                                <div class="bar" style="width: 6.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">C++</span>
-                                <div class="bar" style="width: 4.135999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Terminal</span>
+                                <div class="bar" style="width: 4.271999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -2406,7 +2406,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.15m out of 81.1m repositories</span>
+                                    <span class="gh">ranked 5.15m out of 75.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2566,7 +2566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2024, 16:17:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Feb 2024, 17:15:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
