@@ -1804,22 +1804,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">realignment</span>
-                                <div class="bar" style="width: 38.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.336%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Booster</span>
-                                <div class="bar" style="width: 21.863999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 22.016%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Terminal</span>
-                                <div class="bar" style="width: 12.368000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.304000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">pa2_student</span>
-                                <div class="bar" style="width: 5.175999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -2187,7 +2187,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 377k out of 211m repositories</span>
+                                    <span class="gh">ranked 377k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 100 stars</div>
                             </div>
@@ -2320,7 +2320,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.44m out of 211m repositories</span>
+                                    <span class="gh">ranked 5.44m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2480,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2024, 17:16:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Nov 2024, 18:16:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
