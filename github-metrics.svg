@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            847 Commits
+                            848 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -255,14 +255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.25997445024743" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="207.25997445024743" y="0" width="96.93508997998413" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="304.1950644302315" y="0" width="84.509395078888" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="388.70445950911954" y="0" width="38.71805162614389" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.42251113526345" y="0" width="25.87099777411694" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.29350890938036" y="0" width="4.061544678434504" height="8" fill="#4d41b1"/>
-                    <rect mask="url(#languages-bar)" x="457.35505358781484" y="0" width="1.5343051721440855" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.88935875995895" y="0" width="1.110641240041035" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.25577984290257" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="207.25577984290257" y="0" width="96.9331281702257" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="304.18890801312824" y="0" width="84.5169944026528" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="388.70590241578105" y="0" width="38.71726803527372" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.4231704510547" y="0" width="25.87047418688033" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.2936446379351" y="0" width="4.061462479325945" height="8" fill="#4d41b1"/>
+                    <rect mask="url(#languages-bar)" x="457.355107117261" y="0" width="1.534274120283921" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.8893812375449" y="0" width="1.1106187624550208" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -286,7 +286,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>28.1 MB</div>
+                                <div>28.2 MB</div>
                                 <div>18.37%</div>
                             </small>
                         </div>
@@ -2092,7 +2092,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.67m out of 149m users</span>
+                                    <span class="gh">ranked 3.67m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 18 public repositories</div>
                             </div>
@@ -2196,7 +2196,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 365k out of 226m repositories</span>
+                                    <span class="gh">ranked 365k out of 185m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 105 stars</div>
                             </div>
@@ -2289,7 +2289,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 840k out of 149m users</span>
+                                    <span class="gh">ranked 840k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -2370,7 +2370,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.46m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.46m out of 185m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2530,7 +2530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2024, 02:22:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Nov 2024, 03:14:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
