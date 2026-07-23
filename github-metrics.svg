@@ -1656,17 +1656,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">slime</span>
-                                <div class="bar" style="width: 33.080000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 33.064%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">te-s-6</span>
-                                <div class="bar" style="width: 19.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">workspace</span>
-                                <div class="bar" style="width: 10.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.048000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                             <div class="entry">
@@ -1698,7 +1698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2026, 05:02:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Jul 2026, 06:55:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
